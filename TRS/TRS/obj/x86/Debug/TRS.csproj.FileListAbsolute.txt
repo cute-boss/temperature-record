@@ -1,0 +1,69 @@
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.BaseForm.resources
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.Properties.Resources.resources
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.csproj.GenerateResource.Cache
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\bin\Debug\TRS.exe
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\bin\Debug\TRS.pdb
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\bin\Debug\FontAwesome.Sharp.dll
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.BaseRecord.resources
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.MainStaff.resources
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.MainStaffImport.resources
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.exe
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.pdb
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\bin\Debug\TRS.exe.config
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.RepStaff.resources
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\bin\Debug\EPPlus.dll
+c:\users\110022\documents\visual studio 2010\Projects\TRS\TRS\obj\x86\Debug\TRS.csprojResolveAssemblyReference.cache
+C:\Users\110022\Documents\Visual Studio 2010\Projects\Software Solution\TRS\TRS\bin\Debug\TRS.exe.config
+C:\Users\110022\Documents\Visual Studio 2010\Projects\Software Solution\TRS\TRS\obj\x86\Debug\TRS.exe
+C:\Users\110022\Documents\Visual Studio 2010\Projects\Software Solution\TRS\TRS\obj\x86\Debug\TRS.pdb
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\TRS.exe.config
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\TRS.exe
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\TRS.pdb
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\EPPlus.dll
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csprojAssemblyReference.cache
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.BaseForm.resources
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.BaseRecord.resources
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.MainStaff.resources
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.MainStaffImport.resources
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.Properties.Resources.resources
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.RepStaff.resources
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.GenerateResource.cache
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.CoreCompileInputs.cache
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.CopyComplete
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.exe
+C:\Users\110022\Documents\Visual Studio 2019\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.pdb
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\TRS.exe.config
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\TRS.exe
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\TRS.pdb
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\EPPlus.dll
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csprojAssemblyReference.cache
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.BaseForm.resources
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.BaseRecord.resources
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.MainStaff.resources
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.MainStaffImport.resources
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.Properties.Resources.resources
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.RepStaff.resources
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.GenerateResource.cache
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.CoreCompileInputs.cache
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.CopyComplete
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.exe
+C:\Users\110022\source\Old Projects\Software Solution\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.pdb
+D:\Source\Repos\07_TRS Project\TRS\TRS\bin\Debug\TRS.exe.config
+D:\Source\Repos\07_TRS Project\TRS\TRS\bin\Debug\TRS.exe
+D:\Source\Repos\07_TRS Project\TRS\TRS\bin\Debug\TRS.pdb
+D:\Source\Repos\07_TRS Project\TRS\TRS\bin\Debug\EPPlus.dll
+D:\Source\Repos\07_TRS Project\TRS\TRS\bin\Debug\FontAwesome.Sharp.dll
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csprojAssemblyReference.cache
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.BaseForm.resources
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.BaseRecord.resources
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.MainStaff.resources
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.MainStaffImport.resources
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.Properties.Resources.resources
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.RepStaff.resources
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.GenerateResource.cache
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.CoreCompileInputs.cache
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.csproj.CopyComplete
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.exe
+D:\Source\Repos\07_TRS Project\TRS\TRS\obj\x86\Debug\TRS.pdb
