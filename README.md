@@ -4,6 +4,10 @@ This is a Temperature Record System
 Created using visual studio 2010.
 
 Database: MSSQL
+(Get in Content\DB)
+
+Batch registration staff
+(Get in BatchFile\TRS_batch_1.csv)
 
 Feature:
 
